@@ -68,6 +68,10 @@ Meu nome é Samara e sou uma estudante de programação sempre buscando conhecer
 ### 🌐 Meu site
      http://samaracaldas.rf.gd/
      
+##
+ 
+![Snake animation](https://github.com/samaracaldas/samaracaldas/blob/output/github-contribution-grid-snake.svg)    
+     
   
   
   
