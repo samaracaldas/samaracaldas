@@ -70,7 +70,8 @@ Meu nome é Samara e sou uma estudante de programação sempre buscando conhecer
      
 ##
  
-![Snake animation](https://github.com/samaracaldas/samaracaldas/blob/output/github-contribution-grid-snake.svg)    
+![Snake animation](https://github.com/samaracaldas/samaracaldas/blob/output/github-contribution-grid-snake.svg)   
+     
      
   
   
