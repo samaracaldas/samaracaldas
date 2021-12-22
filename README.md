@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo(a) ao meu espaço!
 
-Meu nome é Samara e sou uma estudante de programação sempre buscando conhecer novas tenologias e me aprimorar!
+Meu nome é Samara e sou estudante de programação, sempre buscando conhecer novas tenologias e me aprimorar!
 
 - 📖 Atualmente estou estudando HTML e CSS
 - ❤️ Gosto de Front-end 
