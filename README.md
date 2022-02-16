@@ -2,7 +2,7 @@
 
 Meu nome é Samara e sou estudante de programação, sempre buscando conhecer novas tenologias e me aprimorar!
 
-- 📖 Atualmente estou estudando HTML e CSS
+- 📖 Atualmente estou estudando Java
 - :desktop_computer: Cursando Análise e Desenvolvimento de Sistemas (1/5)
 - ❤️ Gosto de Front-end 
 - 👩‍🎓 Pronomes: Ela/Dela
@@ -24,7 +24,7 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
   
 <div style="display: inline_block">
   <kbd align="center" background-color="coral">
-    <kbd>Conhecimento em:</kbd>
+    <kbd>Conhecimento básico em:</kbd>
     <br />
     <br />
      <img align="center" alt="icon-Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -40,9 +40,7 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
 <kbd>Estudando:</kbd>
  <br />
  <br /> 
-  <img align="center" alt="icon-HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-Js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icon-Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <br />
 <br />
 </kbd> 
@@ -51,8 +49,9 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
 <kbd>Interesse em:</kbd>
  <br />
  <br />  
-<img align="center" alt="icon-React" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-<img align="center" alt="icon-Boot" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img align="center" alt="icon-HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-Js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br />
 <br />
 </kbd>  
