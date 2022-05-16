@@ -2,7 +2,7 @@
 
 Meu nome é Samara e sou estudante de programação, sempre buscando conhecer novas tenologias e me aprimorar!
 
-- 📖 Atualmente estou estudando Java
+- 📖 Atualmente estou estudando Html, CSS e JavaScript
 - :desktop_computer: Cursando Análise e Desenvolvimento de Sistemas (1/5)
 - ❤️ Gosto de Front-end 
 - 👩‍🎓 Pronomes: Ela/Dela
@@ -78,7 +78,7 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
    <a href="mailto:samaracaldass@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>  
      
-### 🌐 Meu site
+### 🌐 Meu Portfólio
      http://samaracaldas.rf.gd/
      
 ##
