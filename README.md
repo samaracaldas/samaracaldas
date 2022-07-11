@@ -3,7 +3,7 @@
 Meu nome é Samara e sou estudante de programação, sempre buscando conhecer novas tenologias e me aprimorar!
 
 - 📖 Atualmente estou estudando Html, CSS e JavaScript
-- :desktop_computer: Cursando Análise e Desenvolvimento de Sistemas (1/5)
+- :desktop_computer: Cursando Análise e Desenvolvimento de Sistemas (2/5)
 - ❤️ Gosto de Front-end 
 - 👩‍🎓 Pronomes: Ela/Dela
 - 🎂 18 anos 
