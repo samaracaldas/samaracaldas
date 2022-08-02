@@ -79,7 +79,7 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
 </div>  
      
 ### 🌐 Meu Portfólio
-     http://samaracaldas.rf.gd/
+    https://samaracaldas.github.io/portfolio2.0/
      
 ##
  
