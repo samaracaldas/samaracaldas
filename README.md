@@ -23,13 +23,7 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
 #### 💡 Skills Set
   
 <div style="display: inline_block">
-  <kbd align="center" background-color="coral">
-    <kbd>Atualmente trabalho com:</kbd>
-    <br />
-    <br />
-     <img align="center" alt="icon-Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<br />
-<br /> 
+  
 </kbd>
   
   
