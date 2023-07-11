@@ -34,7 +34,7 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
   
   
 <kbd align="center" color="black">
-<kbd>Estudando:</kbd>
+<kbd>Trabalhando com:</kbd>
  <br />
  <br /> 
   <img align="center" alt="icon-HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
