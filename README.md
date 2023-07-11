@@ -51,17 +51,7 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
 <br />
 </kbd>  
   
-  
-<kbd align="center" color="black">
-<kbd>Conhecimento básico em:</kbd>
- <br />
- <br />   
-  <img align="center" alt="icon-HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<br />
-<br /> 
-</kbd>  
+
   
 <kbd align="center" background-color="coral">
   <kbd>Conhecimento de lógica da programação em:</kbd>
