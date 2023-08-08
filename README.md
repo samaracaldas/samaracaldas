@@ -73,8 +73,8 @@ Meu nome é Samara e sou estudante de programação, sempre buscando conhecer no
   
 <div>
   <a href="https://www.linkedin.com/in/samara-caldas-1ab88120a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="mailto:samaracaldass@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>  
+
+  
      
 ### 🌐 Meu Portfólio
     https://samaracaldas.github.io/portfolio2.0/
