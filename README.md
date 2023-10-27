@@ -73,6 +73,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/samaracaldas/samaracaldas/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+</div>
 
 ###
