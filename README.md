@@ -69,10 +69,6 @@
 
 ###
 
-<p align="left">https://samaracaldas.github.io/portfolio2.0/</p>
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
 </div>
