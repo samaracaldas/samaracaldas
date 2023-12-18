@@ -8,8 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-###
-<br clear="both">
+
 
 <p align="left">✨ Resolvendo bugs desde 2021<br>💻 Atualmente trabalho com Angular<br>📚 Cursando Análise e Desenvolvimento de Sistemas<br>🎲 Amo livros e ouvir música<br>👩🏻‍💻 Junior Front-end Developer</p>
 
