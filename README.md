@@ -11,10 +11,9 @@
 <div align="left"  >  
   <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="250"  align="right"  alt="Formando img"/>
    
-  ✨ Resolvendo bugs desde 2021 <br> 
-  💻 Atualmente trabalho com Angular  <br> 
   👩🏻‍💻 Junior Front-end Developer <br> 
-  📝 Meu foco e paixão estão em Desenvolvimento Front-End voltado a Angular ☕  <br> 
+  💻 Atualmente trabalho com Angular  <br> 
+  📝 Meu foco está em Desenvolvimento Front-End voltado a Angular 🅰️ <br> 
   📚 Cursando Análise e Desenvolvimento de Sistemas  <br> 
   🎲 Amo livros e ouvir música  <br> 
  
