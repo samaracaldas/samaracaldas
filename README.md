@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 <div align="left"  >  
-  <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="200"  align="right"  alt="Formando img"/>
+  <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="250"  align="right"  alt="Formando img"/>
    
   👩🏻‍💻 Junior Front-end Developer <br> 
   💻 Atualmente trabalho com Angular  <br> 
