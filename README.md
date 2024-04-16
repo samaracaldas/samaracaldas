@@ -1,27 +1,28 @@
-<h1 align="left">Olá, tudo bem?</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&pause=1000&color=A60CF7&random=false&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Samara!+;Desenvolvedora+Front-End+Jr)](https://git.io/typing-svg)
 
-###
-
-<p align="left">Meu nome é Samara, sou desenvolvedora Front-end e sou apaixonada por programação!</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h3 align="left">about me!</h3>
 
 <div align="left"  >  
   <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="250"  align="right"  alt="Formando img"/>
    
   👩🏻‍💻 Junior Front-end Developer <br> 
-  💻 Atualmente trabalho com Angular  <br> 
   📝 Meu foco está em Desenvolvimento Front-End voltado a Angular 🅰️ <br> 
   📚 Cursando Análise e Desenvolvimento de Sistemas  <br> 
   🎲 Amo livros e ouvir música  <br> 
  
  </div>
 
+ <h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:samaracaldass@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samara-caldas-1ab88120a)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+
+<h3 align="left">My Stack</h3>
+
 ###
 
-<h2 align="left">Skills</h2>
+<h3 align="left">my stacks!</h3>
 
 ###
 
@@ -44,22 +45,7 @@
 
 ###
 
-<h2 align="left">Talk to me</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/samara-caldas-1ab88120a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="40" alt="linkedin logo"  />
-  </a>
- <img width="12" />
-  
-  <a href="samaracaldass@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="30" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
 
 <h2 align="left">My stats</h2>
 
