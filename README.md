@@ -12,14 +12,14 @@
  
  </div>
 
- <h3 align="left">connect with me</h3>
+ <h3 align="left">talk to me</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:samaracaldass@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samara-caldas-1ab88120a)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ssamaracaldass/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9407F7&color:FFF)](https://www.linkedin.com/in/samara-caldas-1ab88120a)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9407F7&color:FFF)](mailto:samaracaldass@hotmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9407F7&color:FFF)](https://www.instagram.com/ssamaracaldass/)
 
 
-<h3 align="left">my stacks</h3>
+<h3 align="left">my knowledges</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="25" alt="html5 logo"  />
