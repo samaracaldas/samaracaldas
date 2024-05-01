@@ -6,7 +6,6 @@
   <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="250"  align="right"  alt="Formando img"/>
    
   👩🏻‍💻 Junior Front-end Developer <br> 
-  📝 Meu foco está em Desenvolvimento Front-End voltado a Angular 🅰️ <br> 
   📚 Cursando Análise e Desenvolvimento de Sistemas  <br> 
   🎲 Amo livros e ouvir música  <br> 
  
@@ -40,10 +39,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samaracaldas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samaracaldas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+ ![samaracaldas's Stats](https://github-readme-stats.vercel.app/api?username=samaracaldas&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide_title=true)
+ ![samaracaldas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samaracaldas&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
 
 ###
 
