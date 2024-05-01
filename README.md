@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=996&color=9407F7&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Samara!;Desenvolvedora+Front-End+Jr.)](https://git.io/typing-svg)
 
+#
+
 <h3 align="left">about me</h3>
 
 <div align="left"  >  
@@ -34,15 +36,9 @@
   
 </div>
 
+#
 
 <h3 align="left">my stats</h3>
 
-###
-
-
  ![samaracaldas's Stats](https://github-readme-stats.vercel.app/api?username=samaracaldas&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide_title=true)
  ![samaracaldas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samaracaldas&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-
-
-###
-
