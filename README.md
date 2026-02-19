@@ -7,7 +7,7 @@
 <div align="left"  >  
   <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="250"  align="right"  alt="Formando img"/>
    
-  👩🏻‍💻 junior full-stack developer <br> 
+  👩🏻‍💻 full-stack developer <br> 
 
  
  </div>
