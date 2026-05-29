@@ -3,11 +3,10 @@
 <img align="right" height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat coding gif"/>
 
 ### 👩🏻‍💻 about me
-
-- 💻 dev full-stack que vive entre o front e o back sem se perder no meio
-- 🧩 perfeccionista quando preciso, criativa quando dá, e sempre focada em entregar
-- 📚 fora do código: lendo um bom livro, com fone no ouvido ou no controle
-- 💜 código bom é aquele que outra pessoa consegue ler sem sofrer
+- 💻 dev full-stack, vivo entre o front e o back e me viro nos dois
+- 🧩 perfeccionista quando preciso, criativa quando dá, focada sempre
+- 📚 fora do código: livro, fone ou controle (às vezes os três
+- 💜 código bom é aquele que não precisa de explicação pra ser entendido
 
 <br clear="right"/>
 
